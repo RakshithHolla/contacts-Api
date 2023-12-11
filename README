@@ -6,6 +6,8 @@ Express JS project for handling contacts data
  - Nodemon
  - dotenv
  - express-async-handler
+ - Mongoose
+ - Bcrypt
 
 #scripts
  - start - npm run start
@@ -13,4 +15,4 @@ Express JS project for handling contacts data
  - test - npm run test
 
 #timeline
-34:24 - MongoDB setup
+1 : 11 : 07 - JWT Access Token & User Login
